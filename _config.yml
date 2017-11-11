@@ -20,4 +20,4 @@ sass:
 #feed:
 #   path:	     rss-feed.xml
 
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-minimal
