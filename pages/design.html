@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<center>
+<div class="imgwrapper">
+{% assign image_files = site.static_files | where: "design", true %}
+{% for myimage in image_files %}
+  <div class="imgbox"><img src="{{ myimage.path }}" width="100%"></div>
+{% endfor %}
+</div>
+</center>
+
+
+<!-- <center>
+	<ul>
+		<li>
+			<div class="featured-image">
+		      <img src="/assets/img/pic/g.jpg">
+		    </div>
+    	</li>
+    </ul>
+</center> -->

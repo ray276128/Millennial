@@ -1,0 +1,11 @@
+.imgwrapper {
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+  grid-gap: 1px;
+}
+
+.imgbox {
+  color: #fff;
+  padding: 5px;
+  font-size: 150%;
+}

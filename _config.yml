@@ -12,6 +12,12 @@ sass:
   sass_dir: assets/css
   style: :nested
 
+defaults:
+  - scope:
+      path: "assets/img/design"
+    values:
+      design: true
+
 # Customise feed settings (uncommenting following two fields to customise feed title and description)
 #title:        "Lagrange-Custom"
 #description:      "a minimalist Jekyll theme-Custom"
