@@ -6,7 +6,7 @@ layout: default
 <div class="imgwrapper">
 {% assign image_files = site.static_files | where: "design", true %}
 {% for myimage in image_files %}
-  <div class="imgbox"><img src="{{ myimage.path }}" width="100%"></div>
+  <div class="imgbox"><a href="{{ myimage.path }}"><img src="{{ myimage.path }}" width="100%"></a></div>
 {% endfor %}
 </div>
 </center>
