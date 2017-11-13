@@ -3,7 +3,6 @@ layout: misc
 title: About
 ---
 
-
 I am an animator and motion graphic designer based in New York.
 
 Contact me for freelance work at [yiruitian@gamil.com](mailto:yiruitian@gamil.com)
