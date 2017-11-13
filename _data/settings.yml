@@ -14,16 +14,19 @@ menu:
 # - {name: 'Learning Resources', folder: 'pages', file: 'resources.html'}
 # - {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}
 - {name: 'Video', folder: 'pages', file: 'video.html'}
-- {name: 'Design', folder: 'pages', file: 'design.html'}
-- {name: 'Gif', folder: 'pages', file: 'gif.html'}
+- {name: '3D', folder: 'pages', file: 'design.html'}
+- {name: '2D', folder: 'pages', file: 'gif.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
-- {name: 'Resume', folder: 'pages', file: 'resume.html'}
 
 social:
 # - {icon: 'twitter', link: 'https://twitter.com/paululele'}
 # - {icon: 'facebook', link: 'https://www.facebook.com/Le.Paul.94'}
 - {icon: 'instagram', link: 'https://www.instagram.com/yirui3751/'}
 - {icon: 'vimeo', link: 'https://vimeo.com/user33173109'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/%E7%BF%8A%E7%9D%BF-%E7%94%B0-0a9a19126/'}
+- {icon: 'envelope', link: 'mailto:yiruitian@gmail.com'}
+
+
 # - {icon: 'weibo', link: 'https://vimeo.com/user33173109'}
 # - {icon: 'envelope', link: 'mailto:l.nguyen.paul@gmail.com'}
 # - {icon: 'rss-square', link: 'feed.xml'}
