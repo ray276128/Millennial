@@ -17,6 +17,10 @@ defaults:
       path: "assets/img/design"
     values:
       design: true
+  - scope:
+      path: "assets/img/gif"
+    values:
+      gif: true
 
 # Customise feed settings (uncommenting following two fields to customise feed title and description)
 #title:        "Lagrange-Custom"
