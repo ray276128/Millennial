@@ -15,7 +15,6 @@ menu:
 # - {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}
 - {name: 'Video', folder: 'pages', file: 'video.html'}
 - {name: '3D', folder: 'pages', file: 'design.html'}
-- {name: '2D', folder: 'pages', file: 'gif.html'}
 - {name: 'Personal Film', folder: 'pages', file: '2017-12-10-Thesis.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 
