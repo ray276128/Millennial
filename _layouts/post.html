@@ -4,9 +4,12 @@ layout: default
 
 <div class="page-content">
   <h1>
+    <center>
     {{ page.title }}
+    </center>
   </h1>
-
+  <br>
+<!-- 
   <span class="post-date">
     Written on
     {% assign d = page.date | date: "%-d"  %}
@@ -23,7 +26,7 @@ layout: default
     {% else %}
       {{ site.data.authors.primary.name }}
     {% endif %}
-  </span>
+  </span> -->
 
   {% if page.image.feature %}
     <div class="featured-image">
